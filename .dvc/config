@@ -1,0 +1,5 @@
+[core]
+    remote = gcsremote
+['remote "gcsremote"']
+    url = gs://sound-memory-461003-iris-train-test-data
+    credentialpath = /home/akshay/.config/gcloud/application_default_credentials.json
